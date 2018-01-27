@@ -6,8 +6,8 @@ Python Google Image Dowloader is a better modded script for downloading images f
 
 ## Windows OS
 
--[x] Download and install Python 2.7
--[x] Open the python file using python2.7
+- [x] Download and install Python 2.7
+- [x] Open the python file using python2.7
 
 ## Linux OS
 

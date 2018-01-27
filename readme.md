@@ -11,17 +11,18 @@ Python Google Image Dowloader is a better modded script for downloading images f
 
 ## Linux OS
 
--[x] Download python 2.7 (if not already there)
--[x] Open terminal and type: "python filename.py" (without double quotes)
+- [x] Download python 2.7 (if not already there)
+- [x] Open terminal and type: "python filename.py" (without double quotes)
 
 ## MAC OS
 
--[x] Download Python2.7
--[x] Open terminal and type: "python filename.py" (without double-quotes)
+- [x] Download Python2.7
+- [x] Open terminal and type: "python filename.py" (without double-quotes)
 
 # Windows help for dummies
 If you're unable to run the python script in windows or if you're wondering an easier way, try this:
--[x] Download and Install Python 2.7
--[x] Right click on the filename.py
--[x] Choose "Edit with IDLE"
--[x] Inside the IDLE editor press "F5" or choose run option from the IDLE menubar
+
+- [x] Download and Install Python 2.7
+- [x] Right click on the filename.py
+- [x] Choose "Edit with IDLE"
+- [x] Inside the IDLE editor press "F5" or choose run option from the IDLE menubar
